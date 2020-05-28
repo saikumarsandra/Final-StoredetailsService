@@ -1,0 +1,6 @@
+location,ownerId,ownername,phonenumber,storeId,storeName,storeType
+hyderbad,1,saikumar,9533480309,1,srisaistore,grocerry
+hyderbad,1,saikumar,9533480309,2,computerstore,Computer
+hyderbad,2,saikumar,9533480309,3,generalstore,grocerry
+hyderbad,2,saikumar,9533480309,4,generalstore,grocerry
+hyderbad,1,saikumar,9533480309,5,generalstore,grocerry
